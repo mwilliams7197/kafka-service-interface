@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": ["master","PPSE701"]
+    "baseBranches": ["master","PPSE-701"]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
